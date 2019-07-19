@@ -21,3 +21,7 @@ The Blockchain is an incorruptible digital ledger of economic transactions that 
 ## Demo video
 
 https://youtu.be/K_CNOwcuPao
+
+## Acknowledgements
+
+This project is part of the Blockchain-based Internet of Things initiative funded by WIT EPIC grant. We would like to thank the Department of Computer Science and Networking at WIT and our partners, Dr. Duc Tran from University of Massachusetts Boston and Ms. Roxy Simpson from IoT World Labs for your support.
