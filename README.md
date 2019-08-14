@@ -22,13 +22,13 @@ There are energy suppliers who produce energy surplus and energy consumers who w
 ![System Design](https://github.com/drphamwit/BIoT/blob/master/images/system_design.png)
 
 ## Tools
-### Hardware
+### Hardwares
 - 2 Raspberry PIs 3
 - 1 Arduino Uno
 - 1 Light Sensor
 - 1 Laptop Lenovo P51
 
-### Software
+### Softwares
 - Raspberian Lite
 - Go Ethereum
 - Meta Mask
