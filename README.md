@@ -27,6 +27,7 @@ There are energy suppliers who produce energy surplus and energy consumers who w
 - 1 Arduino Uno
 - 1 Light Sensor
 - 1 Laptop Lenovo P51
+- 1 NETGEAR Wireless Router
 
 ### Softwares
 - Raspberian Lite
